@@ -8,4 +8,4 @@ My long-term goal is a bachelors of science in mathematics. Along the way, I pla
 Currently, I'm learning how to code with freecodecamp.org!
 I am almost done with the FCC Responsive Web Design Certification. I am currently working through the projects on codepen.io.
 
-https://codepen.io/collection/AMmLOd/
+[[FCC Project Collection](https://codepen.io/collection/AMmLOd/)]
