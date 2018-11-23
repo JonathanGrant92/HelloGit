@@ -6,9 +6,15 @@ My favorite programming language is Python so far, but my favorite subject is ma
 My long-term goal is a bachelors of science in mathematics. Along the way, I plan to learn as much about programming as I can, because math and programming are complementary.
 
 Currently, I'm learning how to code with freecodecamp.org!
-I am almost done with the FCC Responsive Web Design Certification. I am currently working through the projects using codepen.io.
+I am currently working through the the certifications using codepen.io.
 
-[FCC Project Collection](https://codepen.io/collection/AMmLOd/) *Remember to CTRL+click to open links in a new tab.*
+*Remember to CTRL+click to open links in a new tab.*
+
+My Portfolio
+<ul>
+  <li><a href="https://codepen.io/collection/AMmLOd/" target="_blank">FCC Project Collection</a></li>
+  <li><a href="https://www.hackerrank.com/JonathanGrant92?hr_r=1" target="_blank">hackerRankProfile</a></li>
+</ul
 
 Resources I Use
 <ul>
