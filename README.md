@@ -9,3 +9,24 @@ Currently, I'm learning how to code with freecodecamp.org!
 I am almost done with the FCC Responsive Web Design Certification. I am currently working through the projects on codepen.io.
 
 [[FCC Project Collection](https://codepen.io/collection/AMmLOd/)] *Remember to CTRL+click to open in new tab.*
+
+Resources I Use
+<ul>
+  <li>Web Development Resources
+  <ul>
+    <li><a href="https://www.w3schools.com/tags/default.asp" target="_blank">W3Schools</a></li>
+  </ul>
+  <li>Markdown Language Resources</li>
+  <ul>
+    <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists" target="_blank">GitHub Cheat-sheet</a></li>
+    <li><a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markdown Guide</a></li>
+    <li><a href="https://commonmark.org/" target="_blank">Commonmark</a></li>
+    <li><a href="https://en.support.wordpress.com/markdown-quick-reference/" target="_blank">Quick Reference</a></li>
+  </ul>
+</ul>
+
+<!---
+https://postimg.cc/gallery/1lirlhwxw/
+https://jonathangrant92.imgur.com/all/
+https://www.theodinproject.com/dashboard
+--->
