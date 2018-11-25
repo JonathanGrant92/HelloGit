@@ -18,10 +18,11 @@ My Portfolio
 
 Resources I Use
 <ul>
-  <li>Web Development Resources
+  <li>Development Resources
   <ul>
     <li><a href="https://www.w3schools.com/tags/default.asp" target="_blank">W3Schools</a></li>
     <li><a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a></li>
+    <li><a href="https://www.digitalocean.com/community/tutorials?primary_filter=series" target="_blank">DigitalOcean Tutorials</a></li>
     <li><a href="https://developer.mozilla.org/en-US/" target="_blank">Mozilla Development Network</a></li>
   </ul></li>
   <li>Markdown Language Resources
