@@ -6,7 +6,7 @@ My favorite programming language is Python so far, but my favorite subject is ma
 My long-term goal is a bachelors of science in mathematics. Along the way, I plan to learn as much about programming as I can, because math and programming are complementary.
 
 Currently, I'm learning how to code with freecodecamp.org!
-I am currently working through the the certifications using codepen.io.
+I am working through the the certifications using codepen.io and practicing with hackerrank.com.
 
 *Remember to CTRL+click to open links in a new tab.*
 
