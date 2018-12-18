@@ -115,4 +115,4 @@ I realized this possible solution from a similar one in the answers to a questio
 
 I suspect I should have installed [`MinGW-w64`](https://mingw-w64.org/doku.php "x64 Version Project Page"), and set it as the path in the IDE, but instead, I have the path set to the MinGW 32 bit version, which is installed on my OS(C:) drive.
 
-*I could not find an existing thread suitable to resolving this error after reading through dozens of threads with very similar errors, but using different development environments, libraries and compiler tools.*
+*I could not find an existing thread suitable to resolving this error after reading through dozens of threads with similar problems, but using different development environments, libraries or compilers, and providing solutions irrelevant to this scenario.*
