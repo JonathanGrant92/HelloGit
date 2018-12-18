@@ -1,0 +1,4 @@
+    the procedure entry point __gxx_personality_v0 could not be located in the 
+    dynamic link library
+
+When I had this linker error via `#include <vector>`, I copied the `libstdc++-6.dll` file from `MinGW\bin`  to `Windows\SysWOW64`, because copying the file to `WINDOWS\System32` did not work. I suspect this specific error is caused by a windows system bit version mismatch between IDE Codelite and compiler MinGW. I should have installed [`MinGW-w64`](https://mingw-w64.org/doku.php "x64 Version Project Page") and set it as the path in the IDE, but I have `mingw32` on my OS(C:) drive instead.
