@@ -36,3 +36,42 @@ I copied the `libstdc++-6.dll` file from `MinGW\bin`  to `Windows\SysWOW64`, bec
 I found this potential solution in the answers to a question about make.exe in the bin folder of MinGW, [here](https://stackoverflow.com/questions/18668003/the-procedure-entry-point-gxx-personality-v0-could-not-be-located/53822389?noredirect=1#comment94495915_53822389 "'the procedure entry point __gxx_personality_v0 could not be located' Thread"). Is this specific error caused by a windows system bit version mismatch between IDE Codelite and compiler MinGW, and are there better solutions?
 
 I suspect I should have installed [`MinGW-w64`](https://mingw-w64.org/doku.php "x64 Version Project Page"), and set it as the path in the IDE, but I have `mingw32` on my OS(C:) drive instead.
+
+========================================================================================================
+
+My Code in Codelite
+
+    #include <iostream>
+    #include <vector>
+
+    using namespace std;
+
+    int main() {
+    	vector <char> vowels {'a', 'e', 'i', 'o', 'u'};
+	
+    	cout << vowels[0] << endl;
+    	cout << vowels[4] << endl;
+
+        return 0;
+    }
+
+Compiler Error using MinGW from [MinGW](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/ "Installation Manager Setup Tool Download")
+
+    The procedure entry point __gxx_personality_v0 could not be 
+    located in the dynamic link library
+
+I had the above linker error when using `#include <vector>` while following the Udemy [Beginning C++ Programming](https://www.udemy.com/beginning-c-plus-plus-programming/ "Course Store Page") course. 
+
+#A Prospective Solution:
+
+###I copied the `libstdc++-6.dll` file from `MinGW\bin`  to `Windows\SysWOW64` after copying the file to `WINDOWS\System32` did not work.
+
+I found this potential solution in the answers to a question about make.exe in the bin folder of MinGW, [here](https://stackoverflow.com/questions/18668003/the-procedure-entry-point-gxx-personality-v0-could-not-be-located/53822389?noredirect=1#comment94495915_53822389 "'the procedure entry point __gxx_personality_v0 could not be located' Thread").
+
+#A Followup Question:
+
+###Is this specific error caused by a windows system bit version mismatch between IDE Codelite and compiler MinGW, and are there other solutions?
+
+I suspect I should have installed [`MinGW-w64`](https://mingw-w64.org/doku.php "x64 Version Project Page"), and set it as the path in the IDE, but instead, I have the path set to `mingw32` on my OS(C:) drive.
+
+*This was the best question thread I could find after reading through dozens of threads. I know  I'm confident that my answer helps resolve the question we have, but there are likely better solutions.*
