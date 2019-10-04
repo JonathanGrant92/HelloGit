@@ -1,7 +1,7 @@
 # hello-world
 #### Hello Github
 
-I am familiar with Python, Octave, C++ and Java from university courses. My goal is to earn a bachelors of science in computer science. Along the way, I plan to learn as much about programming as I can.
+I am familiar with Python, Octave, C++ and Java from university courses. My goal is to earn a bachelors of science in computer science. In pursuit of this goal, I want to become a software developer.
 
 My Profile
 <ul>
