@@ -1,14 +1,7 @@
 # hello-world
 #### Hello Github
 
-I know some Python and Octave from college courses such as physics and intro to programming.
-My favorite programming language is Python so far, but my favorite subject is math.
-My long-term goal is a bachelors of science in mathematics. Along the way, I plan to learn as much about programming as I can, because math and programming are complementary.
-
-Currently, I'm learning how to code with freecodecamp.org!
-I am working through the certifications using codepen.io and practicing with hackerrank.com.
-
-*Remember to CTRL+click to open links in a new tab.*
+I am familiar with Python, Octave, C++ and Java from university courses. My goal is to earn a bachelors of science in computer science. Along the way, I plan to learn as much about programming as I can.
 
 My Profile
 <ul>
